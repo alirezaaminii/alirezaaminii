@@ -6,7 +6,7 @@ Hi! My name is Alireza. Thank You for taking the time to view my GitHub Profile 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 - 🔭 I’m currently working on [Miare](mia.re)
-- 🔭 Current startup: [zanco](zanco.org)
+- 🔭 Current startup: [Zanco](zanco.org)
 - 🌱 I’m currently learning `nodeJS`
 - 🧾 My Resume, if you are interested: [Alireza Amini](https://github.com/alirezaaminii/uploads/blob/main/AlirezaAmini_FrontEndDeveloper_Resume.pdf)
 - 📫 How to reach me: aminicss1@gmail.com
