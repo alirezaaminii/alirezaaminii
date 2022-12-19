@@ -9,7 +9,7 @@ Hi! My name is Alireza. Thank You for taking the time to view my GitHub Profile 
 - 🔭 Current startup: [Zanco](https://zanco.org)
 - 🌱 I’m currently learning `nodeJS`
 - 🧾 My Resume, if you are interested: [Alireza Amini](https://github.com/alirezaaminii/uploads/blob/main/AlirezaAmini_FrontEndDeveloper_Resume.pdf)
-- 📫 How to reach me: aminicss1@gmail.com
+- 📫 How to reach me: alirezaamini4work@gmail.com / aminicss1@gmail.com
 - 😄 My hobbies and interests include: Swimming, Playing CS:GO, Playing Ping-Pong, Reading
 - 🤓 `Always learning new things`
 
