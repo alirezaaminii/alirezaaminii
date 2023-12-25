@@ -5,12 +5,10 @@ Hi! My name is Alireza. Thank You for taking the time to view my GitHub Profile 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 🔭 I’m currently working on [TashilCar](https://tashilcar.ir/)
-- 🔭 Failed startup: [Zanco](https://zanco.org)
 - 🌱 I’m currently learning `Work-life balance`
 - 🧾 My Resume, if you are interested: [Alireza Amini](https://github.com/alirezaaminii/uploads/blob/main/AlirezaAmini_FrontEndDeveloper_Resume.pdf)
 - 📫 How to reach me: alirezaamini4work@gmail.com 
-- 😄 My hobbies and interests include: Swimming, Playing CS:GO, Playing Ping-Pong, Reading
+- 😄 My hobbies and interests include: Swimming, Reading, Playing Tennis, CS:GO and Ping-Pong
 - 🤓 `Always learning new things`
 
 
